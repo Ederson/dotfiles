@@ -1,6 +1,6 @@
 --- 
 :verbose: true
-gem: --no-ri --no-rdoc
+gem: --no-ri -p http://10.10.2.119:3128
 :update_sources: true
 :sources: 
 - http://gems.rubyforge.org/

@@ -1,13 +1,13 @@
 [user]
-	name = Edson César
-	email = edsono@gmail.com
+	name = Ederson do Vale
+	email = ederson@yahoo.co.uk
 [color]
 	status = auto
 	diff = auto
 	branch = auto
 [core]
-	excludesfile = /Users/edson/.gitignore
-	editor = mate -w
+	excludesfile = /Users/ederson/.gitignore
+	editor = gvim
 [alias]
 	st = status
 	ci = commit
